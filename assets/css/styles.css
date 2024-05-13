@@ -172,7 +172,7 @@ html{
     margin-top: 46px;
     padding-top: 50%;
     box-sizing: border-box;
-    background: url(./assets/images/slider/slide1.jpg) top center / contain;
+    background: url(../assets/images/slider/slide1.jpg) top center / contain;
     background-repeat: no-repeat;
     position: relative;
 }
